@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Temprovide</string>
+    <string name="walkthrough_point_1">find shifts now, get paid today</string>
+    <string name="walkthrough_point_2">search near you instantly</string>
+    <string name="walkthrough_point_3">spend it on the things you love</string>
+    <string name="internet_connectivity">Internet connection problem</string>
+    <string name="some_thing_went_wrong">Something went wrong, Please try again</string>
+    <string name="correct_details">Are these \n details correct?</string>
+    <string name="agree_with_terms"><u>Agree with terms</u></string>
+    <string name="gvc_api_key">AIzaSyDXNsMY5B5_0IWFTjR_XCiuABO_SgClJjo</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</string>
+    <string name="go_back">GO BACK</string>
+    <string name="your_photograph">Your Photograph</string>
+    <string name="say_cheese">say cheese</string>
+    <string name="cancel"><u>Cancel</u></string>
+    <string name="skip"><u>Skip</u></string>
+    <string name="retake_photo">RETAKE PHOTO</string>
+    <string name="facebook_app_id">1982540295299448</string>
+    <string name="profile_picture">Profile Photo</string>
+    <string name="thank_you_descr">Your appointment\nis confirmed</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="appointment_nslots">APPOINTMENT \nSLOTS</string>
+    <string name="select_one_of_the_following_slots">Select one of the following slots:</string>
+    <string name="add_to_calendar">Add to calendar</string>
+    <string name="forget_password"><u>Forgot password?</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">SAVE</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="notifications">Notifications</string>
+    <string name="your_photo">YOUR PHOTO</string>
+    <string name="your_licences">Your LICENCES</string>
+    <string name="payment_information">PAYMENT INFORMATION</string>
+    <string name="profile_update_successfully">Profile Updated Successfully!</string>
+    <string name="tap_each_sia_licence_held">TAP EACH SIA LICENCE HELD</string>
+    <string name="google_map_api_key">AIzaSyA8PAwMQnqWQ2pPMydiRoUmI9xOIhi-Qr0</string>
+    <string name="shift_detais_dummy">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="mins">MINS</string>
+    <string name="until_next_check_in">UNTIL NEXT\nCHECK-IN</string>
+    <string name="per_hour_prompt">£ 12</string>
+    <string name="distance_prompt">3</string>
+    <string name="time_prompt">9 am</string>
+    <string name="rationale_location">This App need an Location Service</string>
+    <string name="to_do_check_in">To do check-in</string>
+    <string name="your_shift">YOUR SHIFT</string>
+
+
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.master.temprovideocrfinal2.LiscenceActivity">
+
+
+    <SurfaceView
+        android:id="@+id/cameraView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/blur_overlay"
+        />
+
+    <TextView
+        android:id="@+id/verificationOverlayGreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_style_before_scan"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="3dp"
+        />
+
+
+    <LinearLayout
+        android:id="@+id/verifyBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorSecondary"
+            android:textSize="@dimen/large_text_size"
+            android:layout_marginTop="@dimen/large_margin"
+            android:textStyle="bold"
+            android:text="Your Licence"/>
+
+        <TextView
+            android:id="@+id/licence_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/normal_text_size"
+            android:layout_marginTop="@dimen/large_margin"
+            android:textStyle="bold"
+            android:text="SECURITY GUARD"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/large_margin"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+        <Button
+            android:id="@+id/manual"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bottom_button_height"
+            android:text="Enter details manually"
+            android:shadowColor="@color/black"
+            android:shadowDy="1"
+            android:shadowDx="1"
+            android:shadowRadius="5"
+            android:textColor="@color/white"
+            android:background="@drawable/border_bg_transparent"
+            android:textAllCaps="true"/>
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/txtView"
+        android:layout_width="5dp"
+        android:layout_height="5dp" />
+
+
+
+</android.widget.RelativeLayout>
